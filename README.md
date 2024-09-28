@@ -9,3 +9,4 @@
 |[kevinjamescasey.github.io/gh-pages/](https://kevinjamescasey.github.io/gh-pages/) | Jekyll example | [GitHub](https://github.com/kevinjamescasey/gh-pages/tree/jekyll-entry) | GitHub Actions (some non-custom default workflow) | GitHub Pages | Jekyll |
 |[nextjs-sample-nu-seven.vercel.app/](https://nextjs-sample-nu-seven.vercel.app/) | Next.js example | [GitHub](https://github.com/kevinjamescasey/nextjs-sample) | Vercel | Vercel | Next.js | 
 |[kevin.x10.mx/](https://kevin.x10.mx/) | Simple site from scatch | none | none | [https://x10hosting.com/](https://x10hosting.com/) | HTML |
+|[glowing-lebkuchen-b201ca.netlify.app/](https://glowing-lebkuchen-b201ca.netlify.app/) | Gatsby example | [GitHub](https://github.com/kevinjamescasey/gatsby-example) | Netlify | Netlify | Gatsby |
